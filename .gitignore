@@ -3,3 +3,5 @@ build
 *.userdb
 .vscode
 sync
+/installation.yaml
+/user.yaml
